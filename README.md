@@ -1,36 +1,61 @@
-🧑‍💻 Mayra Augusta
-Estudante de Sistemas de Informação — 7º Semestre
+<h1 align="center">🌸✨ Olá! Eu sou a Mayra Augusta ✨🌸</h1>
+<h3 align="center">🧑‍💻 Estudante de Sistemas de Informação — 7º Semestre</h3>
 
-Apaixonada por tecnologia, desenvolvimento e aprendizado contínuo.
-Atualmente focada em Java, Lógica de Programação, Banco de Dados e Git/GitHub.
+<p align="center">
+  <img src="https://i.imgur.com/Zw8VHt8.gif" width="150">
+</p>
 
-📚 O que estudo no momento
+---
 
-Estruturas condicionais e de repetição
+## 💕 Sobre mim
+✨ Apaixonada por tecnologia, desenvolvimento e aprendizado contínuo.  
+🌱 Atualmente estudando **Java**, **POO**, **Banco de Dados** e **Git/GitHub**.  
+🌟 Todos os dias dou um passinho a mais rumo ao meu sonho de ser desenvolvedora!  
 
-Programação orientada a objetos
+---
 
-Banco de dados SQL
+## 📚 O que estou estudando agora
+🍃 Estruturas condicionais e de repetição  
+🌼 Programação Orientada a Objetos  
+🌸 Banco de Dados SQL  
+💗 Versionamento com Git e GitHub  
+🌻 Projetos da faculdade  
 
-Versionamento com Git e GitHub
+---
 
-Projetos da faculdade
+## 📁 Repositório em destaque
 
-📁 Repositórios em destaque
+🔹 **[exercicios-java](https://github.com/MAYRAAUGUSTA/exercicios-java)**  
+💖 Códigos e exercícios da disciplina de Programação em Java.
 
-🔹 exercicios-java
+---
 
-Códigos e exercícios da disciplina de Programação em Java.
+## 📊 Estatísticas fofinhas do GitHub
 
+<div align="center">
 
-📊 Estatísticas do GitHub
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayraAugusra&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayraAugusra&layout=compact&langs_count=8&theme=radical"/> </p>
-📫 Como falar comigo
+🎀  
+![Mayra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYRAAUGUSTA&show_icons=true&theme=rose_pine)  
 
-📧 augusta.mayra@icloud.com
-🔗www.linkedin.com/in/mayra-augusto-171aba376
+💗  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYRAAUGUSTA&layout=compact&theme=rose_pine)
 
-✨ Sobre mim
+</div>
 
-Gosto de aprender coisas novas todos os dias e estou construindo meu portfólio como futura desenvolvedora.
-Este é apenas o começo! 🚀
+---
+
+## 📫 Vamos conversar? ✨
+📧 **augusta.mayra@icloud.com**  
+🌷 **[LinkedIn](https://www.linkedin.com/in/mayra-augusto-171aba376)**  
+
+---
+
+## 🌟 Mensagem especial
+> “Cada linha de código é um passo rumo a algo maior.  
+> Continue brilhando, Mayra! 🌈🚀💖”
+
+<p align="center">
+  <img src="https://i.imgur.com/5Yb7Y2p.gif" width="200">
+</p>
+
+---
