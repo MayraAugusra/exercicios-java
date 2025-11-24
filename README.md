@@ -1,61 +1,65 @@
-<h1 align="center">🌸✨ Olá! Eu sou a Mayra Augusta ✨🌸</h1>
-<h3 align="center">🧑‍💻 Estudante de Sistemas de Informação — 7º Semestre</h3>
+<h1 align="center">Hi 👋! My name is Mayra Augusta 🌸</h1>
+<h3 align="center">I'm a Systems Information student from Brazil 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/Zw8VHt8.gif" width="150">
+  <img src="https://i.imgur.com/JxwqQ5F.gif" width="140">
 </p>
 
 ---
 
-## 💕 Sobre mim
-✨ Apaixonada por tecnologia, desenvolvimento e aprendizado contínuo.  
-🌱 Atualmente estudando **Java**, **POO**, **Banco de Dados** e **Git/GitHub**.  
-🌟 Todos os dias dou um passinho a mais rumo ao meu sonho de ser desenvolvedora!  
+## 🌼 About me
+✨ Passionate about technology and continuous learning  
+🎓 7th semester of Systems Information  
+💻 Focused on Java, SQL, Git/GitHub, Logic and OOP  
+🚀 Future developer building her portfolio step-by-step  
 
 ---
 
-## 📚 O que estou estudando agora
-🍃 Estruturas condicionais e de repetição  
-🌼 Programação Orientada a Objetos  
-🌸 Banco de Dados SQL  
-💗 Versionamento com Git e GitHub  
-🌻 Projetos da faculdade  
-
----
-
-## 📁 Repositório em destaque
-
-🔹 **[exercicios-java](https://github.com/MAYRAAUGUSTA/exercicios-java)**  
-💖 Códigos e exercícios da disciplina de Programação em Java.
-
----
-
-## 📊 Estatísticas fofinhas do GitHub
-
-<div align="center">
-
-🎀  
-![Mayra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYRAAUGUSTA&show_icons=true&theme=rose_pine)  
-
-💗  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYRAAUGUSTA&layout=compact&theme=rose_pine)
-
-</div>
-
----
-
-## 📫 Vamos conversar? ✨
-📧 **augusta.mayra@icloud.com**  
-🌷 **[LinkedIn](https://www.linkedin.com/in/mayra-augusto-171aba376)**  
-
----
-
-## 🌟 Mensagem especial
-> “Cada linha de código é um passo rumo a algo maior.  
-> Continue brilhando, Mayra! 🌈🚀💖”
+## 🛠️ Technologies & Tools I Use
 
 <p align="center">
-  <img src="https://i.imgur.com/5Yb7Y2p.gif" width="200">
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,mysql" height="60"/>
+</p>
+
+---
+
+## 📊 Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAYRAAUGUSTA&show_icons=true&theme=rose_pine" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYRAAUGUSTA&layout=compact&theme=rose_pine" height="160"/>
+</p>
+
+---
+
+## 🌸 Connect with me
+
+<p align="center">
+  <a href="mailto:augusta.mayra@icloud.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mayra-augusto-171aba376">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Game – Contributions Animation
+
+<p align="center">
+  <img src="https://github.com/MAYRAAUGUSTA/MAYRAAUGUSTA/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ✨ Special Message
+> Keep coding, keep shining, and keep believing.  
+> You're building something amazing! 🌈🚀💖
+
+<p align="center">
+  <img src="https://i.imgur.com/5Yb7Y2p.gif" width="160"/>
 </p>
 
 ---
